@@ -1,0 +1,79 @@
+2025-06-22 20:39:53,021 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:40:51,706 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:41:05,321 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:41:16,499 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 20:42:03,076 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 20:43:25,891 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 20:43:59,301 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:05,035 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:10,359 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:20,438 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:25,812 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:31,548 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:42,119 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:47,478 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:44:53,246 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:45:59,378 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:46:04,723 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 20:46:10,482 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:03:45,337 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 21:04:32,746 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:04:32,995 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 21:05:02,099 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:05:07,824 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:05:13,606 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:09:23,327 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:09:53,250 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:09:59,026 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:10:04,817 - httpx - INFO - HTTP Request: POST https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium "HTTP/1.1 404 Not Found"
+2025-06-22 21:33:00,571 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 21:34:00,698 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:34:00,863 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 21:42:04,239 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 21:43:23,063 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 21:47:26,212 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 22:34:11,682 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 22:35:07,504 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 22:35:54,515 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-22 22:35:54,772 - chromadb.api.segment - INFO - Collection langchain is not created.
+2025-06-22 23:34:12,877 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-22 23:34:16,609 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-22 23:36:47,844 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-02 21:12:28,611 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-07-02 21:28:24,985 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-02 21:28:28,251 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-02 21:31:53,492 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-02 21:32:41,802 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-02 21:32:42,008 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-02 21:32:42,008 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-07-02 21:32:56,810 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-07-02 21:41:44,312 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-02 22:47:27,374 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-02 22:48:29,173 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 10:09:59,906 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 10:11:06,794 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-03 10:11:07,448 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 10:11:07,448 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 11:17:44,933 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 11:19:00,483 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 11:20:13,835 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-03 11:20:14,171 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 11:20:14,186 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 11:42:15,865 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 12:59:55,956 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 13:00:33,925 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 15:48:40,032 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-03 15:48:40,234 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:48:40,235 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:57:02,663 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 15:57:47,052 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-03 16:05:48,065 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-06 16:27:02,673 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-06 16:27:26,475 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-06 16:28:13,645 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-06 16:28:13,912 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-06 16:28:13,912 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
